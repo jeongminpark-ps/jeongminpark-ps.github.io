@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the latest version of my CV [here:](https://www.dropbox.com/scl/fi/otr0vx2c6zgxhmka7bkhg/Jeongmin_s_CV.pdf?rlkey=6n5bpawzouij7efqc16yknjpe&st=890pxblx&dl=0)
+You can find the latest version of my CV [here]:(https://www.dropbox.com/scl/fi/9s4psiqnzqsm4w3mt45q9/Jeongmin_s_CV.pdf?rlkey=h1olbw76nhxbiy65c4rndblj2&st=f64wse2k&dl=0)
 
 (Last updated: August 2024)
