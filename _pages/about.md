@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! 
 
-I am a Postdoctoral Prize Research Fellow in Politics at Nuffield College, Oxford University. I study the distributional consequences of international conflict, with a substantive focus on historical political economy, gender, and state capacity. The central questions guiding my research are: (1) how international conflict reshapes women’s economic opportunities; (2) how states regulate these conflict-induced changes; and (3) how states develop the capacity for such regulations, and what political goals motivate these efforts. You can see the latest version of my CV [here](https://www.dropbox.com/scl/fi/9s4psiqnzqsm4w3mt45q9/Jeongmin_s_CV.pdf?rlkey=h1olbw76nhxbiy65c4rndblj2&st=2bq7gq05&dl=0).
+I am a Postdoctoral Prize Research Fellow in Politics at Nuffield College, Oxford University. My research is at the intersection of the political economy of conflict and gender. I study how international conflict transforms women’s economic opportunities and how states and non-state actors adapt to or resist these shifts over time. I combine statistical methods and archival research using historical data. You can see the latest version of my CV [here](https://www.dropbox.com/scl/fi/utmlpihe9m8lm1kj5p7hb/Jeongmin_s_CV.pdf?rlkey=7mmt172gdq1dvvpgl6hd27392&st=c79icei2&dl=0).
 
 
-I received my Ph.D. from the Department of Politics at Princeton University in June 2025. My work has been published at the *International Studies Quarterly*. You can reach me at jeongmin.park@nuffield.ox.ac.uk.
+I received my Ph.D. from the Department of Politics at Princeton University in June 2025. My works are published or accepted in the *American Journal of Political Science* and *International Studies Quarterly*. You can reach me at jeongmin.park@nuffield.ox.ac.uk.

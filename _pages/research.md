@@ -11,6 +11,10 @@ redirect_from:
 
 **Peer-Reviewed Publications**
 
+[Teaching the Past, Informing the Present? School History Education and Attitudes toward Foreign Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825722) (with [Soyoung Lee](https://politicalscience.yale.edu/people/soyoung-lee))
+<br />*Conditionally Accepted at American Journal of Political Science*
+
+
 [Applications of GPT in Political Science Research](https://www.dropbox.com/scl/fi/xciuamwp0grlahnde731a/chatgpt-1.pdf?rlkey=3u8ecy6f5eqsisrfo3pvg25ub&st=3ey6ylwd&dl=0) (with [Kyuwon Lee](https://kyuwon-lee.github.io/), [Simone Paci](https://www.simonepaci.com/), [Hye Young You](https://hyeyoungyou.com/research/) and [Sylvan Zheng](https://sylvan.fish/))
 <br />*Forthcoming at PS: Political Science & Politics*
 
@@ -21,10 +25,6 @@ Case of British India](https://academic.oup.com/isq/article/68/3/sqae096/7713800
 
 Returning Men, Breadwinning Women, and the Re-gendering of Postwar Societies 
 <br />*Draft Available Upon Request*
-
-[Do History Textbooks Teach Hate? The Effect of National History Education on Foreign Policy Attitudes](https://dx.doi.org/10.2139/ssrn.4825722) (with [Soyoung Lee](https://politicalscience.yale.edu/people/soyoung-lee))
-<br />*Revise and Resubmit at American Journal of Political Science*
-
 
 **Works in Progress**
 
