@@ -23,8 +23,8 @@ Case of British India](https://academic.oup.com/isq/article/68/3/sqae096/7713800
 
 **Working Papers**
 
-Returning Men, Breadwinning Women, and the Re-gendering of Postwar Societies 
-<br />*Draft Available Upon Request*
+[Returning Men, Breadwinning Women, and the Re-gendering of Postwar Labor](https://www.dropbox.com/scl/fi/aw1h8nwj3d1xh9xagy6xf/draft.pdf?rlkey=ggpefcymoivlyj3h2s55dkewt&st=e04a1fp9&dl=0) 
+<br />*Under Review*
 
 **Works in Progress**
 
