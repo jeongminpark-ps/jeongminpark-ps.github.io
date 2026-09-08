@@ -26,9 +26,12 @@ Case of British India](https://academic.oup.com/isq/article/68/3/sqae096/7713800
 [Returning Men, Breadwinning Women, and the Re-gendering of Postwar Labor](https://www.dropbox.com/scl/fi/j0l9q1asrytk684gt0niz/draft.pdf?rlkey=iidrsvpkrrb9tua29h6fd7ksy&st=0q4d9pc4&dl=0) 
 <br />*Under Review*
 
+
+[The Other Comfort Women: Alliance Insecurity and the Administrative Warping of the Korean State](https://www.dropbox.com/scl/fi/46flb639do1vcdpgqm4db/ocw_draft.pdf?rlkey=lg48y6k0n2vtzuihuzm9lp60q&st=hpii20so&dl=0) (with Diana Kim) <br />*Under Review*
+
+
 **Works in Progress**
 
-The Other Comfort Women: Gendered Consequences of U.S. Military Bases (with Diana Kim)
 
 Racial Strife in the U.S. Military During World War II (with Chris Blair)
 
