@@ -27,7 +27,7 @@ Case of British India](https://academic.oup.com/isq/article/68/3/sqae096/7713800
 <br />*Under Review*
 
 
-[The Other Comfort Women: Alliance Insecurity and the Administrative Warping of the Korean State](https://www.dropbox.com/scl/fi/46flb639do1vcdpgqm4db/ocw_draft.pdf?rlkey=lg48y6k0n2vtzuihuzm9lp60q&st=hpii20so&dl=0) (with Diana Kim) <br />*Under Review*
+[The Other Comfort Women: Alliance Insecurity and the Administrative Warping of the Korean State](https://www.dropbox.com/scl/fi/hmmrr65lq6r06ccwn8dos/ocw.pdf?rlkey=col5fe57g1l9phad002zke19u&st=wetzeo75&dl=0) (with Diana Kim) <br />*Under Review*
 
 
 **Works in Progress**
